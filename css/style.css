@@ -59,3 +59,10 @@ body {
 .service:hover .icon {
     background-color: var(--bs-blue);
 }
+
+
+/* Swiper */
+
+.swiper-pagination-bullet {
+    background-color: white;
+}
